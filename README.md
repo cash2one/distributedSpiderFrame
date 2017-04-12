@@ -1,4 +1,4 @@
-## Model
+## Guide
 ### Directory Structure
 #### Files
 * AlternationLog
@@ -108,3 +108,7 @@ python3 ${workdir}/src/slaveSpider.py
 log "end"
 log "-----------------------------------------------------------------------------"
 ```
+
+### Attention and Advice
+#### Redis
+* It is recommended to use md5 key
